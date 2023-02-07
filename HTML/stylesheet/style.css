@@ -1,0 +1,42 @@
+img.logo {
+    float: left;
+  }
+  p {
+    margin: 10px;
+    border-left: 30px;
+  }
+  h1 {
+    margin: 10px;
+    margin-block-start: 10px;
+  }
+  a {
+    margin: 20px;
+    border: 10px;
+  }
+  .index{
+    background-color: aqua;
+  }
+  .company{
+    background-color: coral;
+  }
+  .products{
+    background-color: darkgreen;
+  }
+  .heading{
+    margin-top: 7%;
+  }
+  input{
+  margin: 4px;
+    
+  }
+  .copyrights{
+    text-align: center;
+    background: #e56424;
+    color: antiquewhite;
+  }
+  textarea{
+    margin: 4px;
+  }
+  form{
+    text-align: center;
+  }
